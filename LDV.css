@@ -1,0 +1,211 @@
+@media screen and (max-width: 600px) {
+    nav.altura-nav-bar {
+        height: 55px;
+    }
+}
+.altura-nav-bar {
+    height: 60px;
+}
+
+@media screen and (max-width: 1217px) {
+    li.config-cxa-pesquisa {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 1366px) {
+     li.config-cxa-pesquisa {
+        width: 35%;
+    }
+}
+.config-cxa-pesquisa {
+    height: 60px;
+    width: 28%;
+}
+input::placeholder {
+  color: white;
+}
+
+.fa-money-bill {
+    font-size: 25px;
+}
+.fa-credit-card {
+    font-size: 25px;
+}
+@media screen and (min-width: 601px) {
+    div.ajuste-somente-padding-top {
+        margin-top: 35px; 
+    }
+}
+@media screen and (max-width: 992px) {
+    div.ajuste-somente-padding-top {
+        
+    }
+}
+@media screen and (max-width: 600px) {
+    div.borda-vantagens {
+        border-right: 0px solid;
+        border-bottom: 1px solid #e0e0e0;
+    }
+}
+.borda-vantagens {
+    border-right: 1px solid #e0e0e0;
+}
+.titus-pginicial {
+    font-size: 22px;
+    font-family: 'ABeeZee', sans-serif;
+}
+.titu-pg-qm-somos {
+    font-size: 22px;
+    font-family: 'ABeeZee', sans-serif;
+    padding-top: 25px;
+}
+@media screen and (max-width: 600px) {
+    h4.ajuste-vantagens {
+        text-align:justify;
+    }
+}
+.ajuste-vantagens {
+    text-align:justify;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-family: 'ABeeZee', sans-serif;
+}
+@media screen and (max-width: 819px) {
+    div.carousel-slider {
+        display: none;
+    }
+}
+@media screen and (min-width: 820px) {
+    div.img-menor-igual-a-600px {
+        display: none;
+    }
+}
+@media screen and (max-width: 600px) {
+    h4.ajuste-somente-padding-top {
+        padding-top: 8px;
+    }
+}
+@media screen and (max-width: 1058px) {
+    div.apaga-footer-grandao {
+        display: none;
+    }
+}
+@media screen and (min-width: 1059px) {
+    div.apaga-footer-pequeno {
+        display: none;
+    }
+}
+.fa-building {
+    font-size: 20px;
+}
+.fa-facebook {
+    font-size: 35px;
+    color: white;
+}
+.fa-clock {
+    font-size: 20px;
+}
+.font-mnuini-footer-pgprods-pgroupas-pgacessorios-pglivros-pgbiblias {
+    font-family: 'ABeeZee', sans-serif;
+}
+.fa-phone {
+    font-size: 18px;
+    color: white;
+}
+.fa-whatsapp {
+    font-size: 18px;
+    color: white;
+}
+.fa-map-marker-alt {
+    font-size: 18px;
+    color: white;
+}
+.img-mp {
+    padding-top: 8px;
+    padding-bottom: 4px;
+}
+
+
+
+
+.titus-pgprods-pgroupas-pgacessorios-pglivros-pgbiblias{
+    padding-top: 28px;
+    font-size: 22px;
+    font-family: Georgia;
+}
+.des-produtos {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.font-ab-com-padding {
+    font-family: 'ABeeZee', sans-serif;
+    padding-top: 20px;
+}
+.ajuste-pg-categorias {
+    padding-left: 20px;
+}
+.font-ab {
+    font-family: 'ABeeZee', sans-serif;
+}
+.div-das-categorias a.a-do-nome-das-categorias-roupas-acessorios:hover {
+    text-decoration: underline; 
+}
+a.a-do-caminho-pgsdosprodutos:hover {
+    text-decoration: underline; 
+}
+.font-ab-com-padding-igual-imagens {
+    font-family: 'ABeeZee', sans-serif;
+    padding-left: 50px;
+}
+.padding-casual-formal {
+    padding-left: 30px;
+}
+.padding-itens-casual-formal {
+    padding-left: 52px;
+}
+.arruma-altura-esp-entre-navbar-pgconteudo {
+    margin-top: 21px;
+}
+.padding-lf-46px {
+    padding-left: 46px;
+}
+.formal-casual {
+    color: #ad1457;
+    font-size: 1em;
+}
+.links-mnu-ini {
+    width: 80px;
+}
+.sobre {
+    padding-left: 36%;
+}
+.fle-conosco {
+    padding-left: 36%;
+}
+.hr-funcio1 {
+    padding-left: 19%;
+}
+.hr-funcio2 {
+    padding-left: 19%;
+}
+.marg-left-5ponto2-porc {
+    margin-left: 5.2%;
+}
+.marg-top-2ponto6-porc {
+    margin-top: 2.6%;
+}
+.marg-top-1ponto5-porc {
+    margin-top: 1.5%;
+}
+.marg-left-10ponto5-porc {
+    margin-left: 10.5%;
+}
+#search::-webkit-input-placeholder{
+    color: black;
+}
+#search::-moz-placeholder {
+    color: black;
+}
+
+
+
